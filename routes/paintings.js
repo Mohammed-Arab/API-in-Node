@@ -84,27 +84,21 @@ router.get('/title/:text', (req, res) => {
   
 
 // Endpoint: /api/painting/color/:name - Returns JSON for paintings with a color matching the provided hex value (case insensitive)
-/****************************************
-  I tried debugging and looking where I am getting the error from but couldn't find anything I also tried
-    different approaches same thing it is not working for some reason, if you please can look at the code and 
-    at least give me makrs if it was implemented correct but test's don't pass for some reason
-  ********************************/
-router.get('/color/:name', (req, res) => {
-    const searchColor = req.params.name.toLowerCase();// Convert the search text to lowercase for case-insensitive comparison
-  
-    const paintingsWithMatchingColor = paintingsData.filter(painting =>{
-         return painting.annotation.dominantColors.find(color =>
-          color.name.toLowerCase() == searchColor
+router.get('/color/:text', (req, res) => {
+    const searchColor = req.params.text.toLowerCase();
+      
+    const paintingsByColor = paintingsData.filter(painting =>
+        painting.details.annotation.dominantColors.some(color =>
+         color.name.toLowerCase() == searchColor
         )
-});
-console.log('Search Color:', searchColor);
-console.log('Matching Paintings:', test);
-      if (paintingsWithMatchingColor.length === 0) {
-        res.status(404).json({ message: 'No paintings found matching the provided color' });
+      );
+      if (paintingsByColor.length === 0) {
+       res.status(404).json({ message: 'No paintings found matching the provided color' });
+
       } else {
-        res.json(paintingsWithMatchingColor);
+        res.json(paintingsByColor);
       }
-    });
+});
 
 
 
