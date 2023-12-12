@@ -2,6 +2,10 @@
 
 https://occipital-disco-diabloceratops.glitch.me/api/paintings/color/napa
 
+https://occipital-disco-diabloceratops.glitch.me/api/paintings/color/coffee%20bean
+
+https://occipital-disco-diabloceratops.glitch.me/api/paintings/color/kcvhvxchbkcj
+
 https://occipital-disco-diabloceratops.glitch.me/api/paintings
 
 https://occipital-disco-diabloceratops.glitch.me/api/paintings/433
