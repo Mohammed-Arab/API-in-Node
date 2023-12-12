@@ -1,5 +1,8 @@
 # API-in-Node
 
+
+https://occipital-disco-diabloceratops.glitch.me/api/paintings/color/napa
+
 https://occipital-disco-diabloceratops.glitch.me/api/paintings
 
 https://occipital-disco-diabloceratops.glitch.me/api/paintings/433
