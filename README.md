@@ -1,10 +1,6 @@
 # API-in-Node
 
-https://occipital-disco-diabloceratops.glitch.me/api/paintings/color/napa
 
-https://occipital-disco-diabloceratops.glitch.me/api/paintings/color/coffee%20bean
-
-https://occipital-disco-diabloceratops.glitch.me/api/paintings/color/kcvhvxchbkcj
 
 https://occipital-disco-diabloceratops.glitch.me/api/paintings
 
@@ -28,11 +24,11 @@ https://occipital-disco-diabloceratops.glitch.me/api/painting/title/self
 
 https://occipital-disco-diabloceratops.glitch.me/api/painting/title/dfjkghdfkgh
 
-https://occipital-disco-diabloceratops.glitch.me/api/painting/color/NAPA
+https://occipital-disco-diabloceratops.glitch.me/api/paintings/color/napa
 
-https://occipital-disco-diabloceratops.glitch.me/api/painting/color/coffee%20bean
+https://occipital-disco-diabloceratops.glitch.me/api/paintings/color/coffee%20bean
 
-https://occipital-disco-diabloceratops.glitch.me/api/painting/color/kcvhvxchbkcj
+https://occipital-disco-diabloceratops.glitch.me/api/paintings/color/kcvhvxchbkcj
 
 https://occipital-disco-diabloceratops.glitch.me/api/artists
 
