@@ -1,8 +1,6 @@
 # API-in-Node
 
 
-https://occipital-disco-diabloceratops.glitch.me/api/paintings/color/napa
-
 https://occipital-disco-diabloceratops.glitch.me/api/paintings
 
 https://occipital-disco-diabloceratops.glitch.me/api/paintings/433
@@ -26,13 +24,10 @@ https://occipital-disco-diabloceratops.glitch.me/api/painting/title/self
 https://occipital-disco-diabloceratops.glitch.me/api/painting/title/dfjkghdfkgh
 
 https://occipital-disco-diabloceratops.glitch.me/api/painting/color/NAPA
-//for somereason they are still not working
 
 https://occipital-disco-diabloceratops.glitch.me/api/painting/color/coffee%20bean
-//for somereason they are still not working
 
 https://occipital-disco-diabloceratops.glitch.me/api/painting/color/kcvhvxchbkcj
-//for somereason they are still not working
 
 https://occipital-disco-diabloceratops.glitch.me/api/artists
 
